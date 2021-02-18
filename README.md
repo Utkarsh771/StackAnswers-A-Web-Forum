@@ -6,6 +6,6 @@ I made this with extensive use of Python Django Framework, Javascript and CSS Bo
 
 Please see screenshots attached.
 
-Note: The Project file can be opened using the password I sent to you
+Note: The Project file 'StackAnswers' can be opened using the password I sent to you
 
 - Utkarsh Sharma 
